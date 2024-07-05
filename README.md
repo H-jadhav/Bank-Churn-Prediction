@@ -1,2 +1,2 @@
 # Bank-Churn-Prediction
-Sem2 Project
+Billing Project
